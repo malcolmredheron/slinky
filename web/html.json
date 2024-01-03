@@ -2165,6 +2165,15 @@
 
     // Form Events
     {
+      "attributeName" : "onBeforeInput",
+      "attributeType" : "EventHandler",
+      "docLines" : [
+        ""
+      ],
+      "compatibleTags" : null,
+      "withDash" : false
+    },
+    {
       "attributeName" : "onChange",
       "attributeType" : "EventHandler",
       "docLines" : [

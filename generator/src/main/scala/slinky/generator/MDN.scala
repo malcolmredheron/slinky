@@ -17,6 +17,7 @@ object MDN extends TagsProvider {
     Attr("onAbort", "EventHandler") -> "",
     Attr("onAutoComplete", "EventHandler") -> "",
     Attr("onAutoCompleteError", "EventHandler") -> "",
+    Attr("onBeforeInput", "EventHandler") -> "",
     Attr("onBlur", "EventHandler") -> "",
     Attr("onCancel", "EventHandler") -> "",
     Attr("onCanPlay", "EventHandler") -> "",
